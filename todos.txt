@@ -3,3 +3,9 @@ study
 gym
 cook
 sleep
+clean
+cook
+clean
+hi
+bath
+dance
