@@ -1,11 +1,12 @@
-play
-study
-gym
-cook
-sleep
-clean
-cook
-clean
-hi
-bath
-dance
+play video games
+make notes
+practice dsa - bs
+do exercise
+take some rest
+watch movie
+run a mile
+clean the cupboard
+organize bookshelf
+practice apti
+cut vegetables
+cook dinner
