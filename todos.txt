@@ -5,3 +5,5 @@ watch movie
 organize bookshelf
 cut vegetables
 water the plants
+attend lectures
+fix the speakers
